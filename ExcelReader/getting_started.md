@@ -21,9 +21,9 @@ parent: ExcelReader
 ![](https://intellij-icons.jetbrains.design/icons/AllIcons/actions/wordsSelected.svg) and ![](https://intellij-icons.jetbrains.design/icons/AllIcons/actions/regexSelected.svg) simultaneous opening is not supported
 
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Icon        | Description          |
+|:-------------|:------------------|
+| ![](https://intellij-icons.jetbrains.design/icons/AllIcons/actions/matchCaseSelected.svg)            | Enable uppercase matching mode |
+| out of stock | good and plenty   |
+| ok           | good `oreos`      |
+| ok           | good `zoute` drop |
