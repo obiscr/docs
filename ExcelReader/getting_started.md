@@ -6,6 +6,15 @@ parent: ExcelReader
 
 ## Usage
 
+Select excel file, supports multiple opening methods
+
++ Mouse click to open
++ Shortcut key to open
++ Quick search opens
+
+> `Ctrl Shift D` on **Windows/Linux**, `Command Shift D` on **macOS**
+
+## Actions
 | Icon        | Description          |
 |:-------------|:------------------|
 | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/actions/matchCaseSelected.svg)            | Enable uppercase matching mode |
