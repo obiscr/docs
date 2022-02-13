@@ -1,7 +1,7 @@
-title: "ExcelReader"
-description: ExcelReader is a plugin that can read the file content in IDEs. Three formats of [xls, xlsx, csv] are supported.
+title: "Observer & Creator"
+description: Welcome here, some projects will be recorded here.
 remote_theme: pmarsceill/just-the-docs
 
 aux_links:
   "GitHub":
-    - "//github.com/obiscr/ExcelReader"
+    - "//github.com/obiscr/"
