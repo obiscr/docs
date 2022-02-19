@@ -34,7 +34,7 @@ to modify or merge important data, be sure to back up your data before doing so.
 
 ![FileCompare](images/FileCompare.png)
 
-# 安装
+# Installation
 
 - Using IDE built-in plugin system:
 
