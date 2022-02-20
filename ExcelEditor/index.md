@@ -19,8 +19,6 @@ Has all the features of ExcelReader. And additionally provides:
 + File comparison
 + Excel Merge Function
 
-For more details, please see the [document](https://obiscr.github.io/docs/ExcelEditor)
-
 **Note** : For particularly important data, it is recommended to use
 professional Excel tools to modify and merge. If you want to use this tool
 to modify or merge important data, be sure to back up your data before doing so.
