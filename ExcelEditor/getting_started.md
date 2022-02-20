@@ -52,6 +52,8 @@ There are generally three formats of data: **Date Format**, **Normal Text**, and
 #### Date Format
 When modifying the date format: the new value written must conform to the standard date format, otherwise the writing will fail and the original value will be restored. That is: the edit was unsuccessful.
 
+![DescEditDate](https://user-images.githubusercontent.com/28687074/154837396-91fe23ab-1e81-41c6-9490-2ab956984784.gif)
+
 #### Normal Text
 Normal text data can be written directly.
 
@@ -63,19 +65,30 @@ The value of cell **A1** is: `256`, the value of cell **A2** is `512`, the type 
 At this point, we modify the value of cell A3 to 1000, which will trigger the formula to recalculate. That is to say, without modifying cell A1 and cell A2, the calculated result of cell A3 is still 768.
 **Suppose you modify cell A1 to 1000 before modifying cell A3, then when you modify cell A3, the calculated value should be: 1512, because A3(1512) = A1(1000) + A2(512)**.
 
+![DescEditFormula](https://user-images.githubusercontent.com/28687074/154837384-94199813-e7a9-4819-80fd-6890333b4d19.gif)
+
 ### File comparison
 The csv files can only be compared with csv files, xls files and xlsx files can be compared with each other arbitrarily
 
 ### Excel Merge Function
-File Merge supports three modes: **Merge Single Line**, **Merge Selected Line*, **Merge All Line**.
+File Merge supports three modes: **Merge Single Row**, **Merge Multiple Rows**, **Merge All Rows**.
+Data writing rules: If you want to write the data on the left to the right, 
+click ![](https://intellij-icons.jetbrains.design/icons/AllIcons/vcs/arrow_right.svg). 
+In turn, if you want to write the data on the right to the left, 
+click ![](https://intellij-icons.jetbrains.design/icons/AllIcons/vcs/arrow_left.svg). 
+The direction of the arrow vividly illustrates the direction of the data.
 
-#### Merge Single Line
-To merge a single line, you only need to select the arrow on the left or right of the current line to merge the current line according to the [
-rules of data writing](#Data modification).
+#### Merge Single Row
+To merge a single line, you only need to select the ![](https://intellij-icons.jetbrains.design/icons/AllIcons/vcs/arrow_right.svg) 
+or ![](https://intellij-icons.jetbrains.design/icons/AllIcons/vcs/arrow_left.svg) 
+on the left or right of the current line to merge the current line according to the [rules of data writing](#Data modification).
 
-#### Merge Selected Line
-To merge the selected rows, just select the data to be merged and click the merge button on the toolbar to merge.
+#### Merge Multiple Rows
+To merge the selected rows, just select the data on the left and click the merge button on the toolbar to merge.
+See [Rules](#Merge Rules)
 
-#### Merge All Line
-To merge all rows, simply click the merge button on the toolbar to merge. But you cannot select multiple rows of data before the operation.
-That is to say, if you select multiple rows (the number of selected rows is greater than 1 row), it will be processed as multi-row merge, and not all rows will be merged.
+#### Merge All Rows
+To merge all rows, simply click the merge button on the toolbar to merge. 
+But you cannot select multiple rows of data before the operation.
+That is to say, if you select multiple rows (the number of selected rows is greater than 1 row), 
+it will be processed as multi-row merge, and not all rows will be merged.
