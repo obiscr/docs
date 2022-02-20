@@ -79,13 +79,12 @@ click ![](https://intellij-icons.jetbrains.design/icons/AllIcons/vcs/arrow_left.
 The direction of the arrow vividly illustrates the direction of the data.
 
 #### Merge Single Row
-To merge a single line, you only need to select the ![](https://intellij-icons.jetbrains.design/icons/AllIcons/vcs/arrow_right.svg) 
+To merge a single line, you only need to click the ![](https://intellij-icons.jetbrains.design/icons/AllIcons/vcs/arrow_right.svg) 
 or ![](https://intellij-icons.jetbrains.design/icons/AllIcons/vcs/arrow_left.svg) 
-on the left or right of the current line to merge the current line according to the [rules of data writing](#Data modification).
+of the current line.
 
 #### Merge Multiple Rows
-To merge the selected rows, just select the data on the left and click the merge button on the toolbar to merge.
-See [Rules](#Merge Rules)
+To merge the selected rows, just select the data on the left or right and click the merge button on the toolbar.
 
 #### Merge All Rows
 To merge all rows, simply click the merge button on the toolbar to merge. 
