@@ -4,7 +4,7 @@ nav_order: 2
 has_children: true
 ---
 
-# Notification:tada::tada::tada:
+# Notification
 
 The new plugin ExcelEditor is expected to be released in the next few days, please pay attention in time.
 
@@ -27,10 +27,10 @@ ExcelEditor supports:
 | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/general/filter.svg)           | Column filter                           |  | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/general/filter.svg)           | Column filter              |
 | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/actions/menu-open.svg)           | Show files in Explorer                  | | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/actions/menu-open.svg)           | Show files in Explorer     |
 | ![](https://user-images.githubusercontent.com/28687074/154850761-db118644-ef2f-4d80-b9b1-f3c95953ee41.svg) | Show file in Excel tool                 | | ![](https://user-images.githubusercontent.com/28687074/154850761-db118644-ef2f-4d80-b9b1-f3c95953ee41.svg)           | Show file in Excel tool    |
-| | | | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/actions/replace.svg)           | :tada: Replace/Replace All |
-| | | | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/actions/diff.svg)           | :tada: File Compare        |
-| | | | ![](https://intellij-icons.jetbrains.design/icons/NetIcons/PsiSymbols/PropertyWrite(SymbolsVs11Color).svg)           | :tada: Edit The Cell       |
-| | | | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/vcs/merge.svg)           | :tada: Merge The Cell      |
+| | | | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/actions/replace.svg)           | Replace/Replace All |
+| | | | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/actions/diff.svg)           | File Compare        |
+| | | | ![](https://intellij-icons.jetbrains.design/icons/NetIcons/PsiSymbols/PropertyWrite(SymbolsVs11Color).svg)           | Edit The Cell       |
+| | | | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/vcs/merge.svg)           | Merge The Cell      |
 
 [Take me to preview new features](https://obiscr.github.io/docs/ExcelEditor/)
 
