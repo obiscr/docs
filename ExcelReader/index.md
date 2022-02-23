@@ -6,7 +6,7 @@ has_children: true
 
 # Notification
 
-The new plugin ExcelEditor is expected to be released in the next few days, please pay attention in time.
+The new plugin [ExcelEditor](https://plugins.jetbrains.com/plugin/18663-exceleditor) has now been released.
 
 ExcelEditor supports:
 
