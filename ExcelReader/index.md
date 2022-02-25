@@ -43,6 +43,7 @@ ExcelEditor supports:
 [![Build](https://github.com/obiscr/ExcelReader/actions/workflows/build.yml/badge.svg)](https://github.com/obiscr/ExcelReader/actions/workflows/build.yml)
 [![Version](https://img.shields.io/jetbrains/plugin/v/14722-excelreader.svg)](https://plugins.jetbrains.com/plugin/14722-excelreader)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/14722-excelreader.svg)](https://plugins.jetbrains.com/plugin/14722-excelreader)
+[![Slack](https://img.shields.io/badge/Slack-%23ExcelReader-blue?logo=Slack)](https://observercreator.slack.com/)
 
 <!-- Plugin description -->
 ExcelReader是一款JetBrains平台的插件。可以在JetBrains的大部分编辑器中解析 <b>xls，xlsx，csv</b> 
