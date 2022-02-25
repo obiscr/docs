@@ -9,6 +9,7 @@ has_children: true
 [![Build](https://github.com/obiscr/ExcelReader/actions/workflows/build.yml/badge.svg)](https://github.com/obiscr/ExcelReader/actions/workflows/build.yml)
 [![Version](https://img.shields.io/jetbrains/plugin/v/14722-excelreader.svg)](https://plugins.jetbrains.com/plugin/14722-excelreader)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/14722-excelreader.svg)](https://plugins.jetbrains.com/plugin/14722-excelreader)
+[![Slack](https://img.shields.io/badge/Slack-%23ExcelEditor-blue?logo=Slack)](https://observercreator.slack.com/)
 
 <!-- Plugin description -->
 This plugin is an Enhanced Edition of [**ExcelReader**](https://plugins.jetbrains.com/plugin/14722-excelreader).
