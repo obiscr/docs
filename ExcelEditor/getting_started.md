@@ -26,7 +26,7 @@ Select excel file, supports multiple opening methods
 | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/graph/snapToGrid.svg)           | Jump to the specified Cell                    |
 | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/general/filter.svg)           | Column filter                                 |
 | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/actions/menu-open.svg)           | Show files in Finder/Explorer                 |
-| ![](https://github.com/obiscr/docs/blob/gh-pages/ExcelReader/icons/excel.svg)           | Call the system's Excel tool to open the file |
+| ![](https://user-images.githubusercontent.com/28687074/154850761-db118644-ef2f-4d80-b9b1-f3c95953ee41.svg)           | Call the system's Excel tool to open the file |
 | ![](https://intellij-icons.jetbrains.design/icons/DevkitIcons/icons/gutter/diff.svg)           | File Compare                                  |
 | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/actions/replace.svg)           | Show Replace Component                        |
 
