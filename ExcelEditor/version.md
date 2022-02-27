@@ -14,3 +14,5 @@ The plugin version and IDE version
 | [2022.2.2-203](https://plugins.jetbrains.com/plugin/18663-exceleditor/versions/stable/160303) | 2020.3.1 ~ 2020.3.4 |
 | [2022.2.2-202](https://plugins.jetbrains.com/plugin/18663-exceleditor/versions/stable/160298) | 2020.2.1 ~ 2020.2.4 |
 | [2022.2.2-201](https://plugins.jetbrains.com/plugin/18663-exceleditor/versions/stable/160297) | 2020.1.1 ~ 2020.1.4 |
+
+Please make sure to download the version corresponding to your IDE.

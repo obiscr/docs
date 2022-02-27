@@ -15,3 +15,5 @@ The plugin version and IDE version
 | [2020.2.1](https://plugins.jetbrains.com/plugin/14722-excelreader/versions/stable/160178) | 2020.2.1 ~ 2020.2.4 |
 | [2020.1.1](https://plugins.jetbrains.com/plugin/14722-excelreader/versions/stable/160177) | 2020.1.1 ~ 2020.1.4 |
 | [1.0.2](https://plugins.jetbrains.com/plugin/14722-excelreader/versions/stable/93648)     | 2017.3.6 ~ 2019.3.5 |
+
+Please make sure to download the version corresponding to your IDE.
