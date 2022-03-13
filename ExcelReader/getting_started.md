@@ -21,7 +21,7 @@ Select excel file, supports multiple opening methods
 | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/actions/matchCaseSelected.svg)            | Enable uppercase matching mode                |
 | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/actions/wordsSelected.svg) | Enable full character matching mode           |
 | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/actions/regexSelected.svg)           | Regular match pattern                         |
-| ![](https://user-images.githubusercontent.com/28687074/158059969-51eeb68c-f0f4-44bb-bcd8-e4413c63fca6.svg)           | Sql match mode                             |
+| ![](https://user-images.githubusercontent.com/28687074/158059969-51eeb68c-f0f4-44bb-bcd8-e4413c63fca6.svg)           | [Sql match mode](https://obiscr.github.io/Project/excelreader-sql-model/)                            |
 | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/actions/previousOccurence.svg)           | Jump to previous search result                |
 | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/actions/nextOccurence.svg)           | Jump to next search result                    |
 | ![](https://intellij-icons.jetbrains.design/icons/AllIcons/graph/snapToGrid.svg)           | Jump to the specified Cell                    |
