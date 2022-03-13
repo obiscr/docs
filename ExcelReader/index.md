@@ -60,6 +60,10 @@ ExcelReader是一款JetBrains平台的插件。可以在JetBrains的大部分编
 
 ![usage](https://user-images.githubusercontent.com/28687074/151927078-ed40ebdb-8b68-466c-9c74-3d4d01c706b9.gif)
 
+![sql-1](https://user-images.githubusercontent.com/28687074/158058906-bf355e85-71cf-475f-9814-5ef5ea98faba.gif)
+
+![sql-2](https://user-images.githubusercontent.com/28687074/158058915-70cec3ec-872c-45a7-aa7d-dd68d735d953.gif)
+
 ![default](https://user-images.githubusercontent.com/28687074/151703020-767e36fa-e428-4e47-8dd0-3e9ed219d4a7.png)
 
 ![open_file_excel](https://user-images.githubusercontent.com/28687074/151703028-6d574ad9-8d6e-4b1a-a99e-33667e756672.png)
